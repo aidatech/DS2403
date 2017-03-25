@@ -3,7 +3,7 @@
 // DS2403 Class is modified from DS3231 Class to suit for DS2403 RTC chip.
 // DateTime Class is a modified version supporting automatically calculating the days 
 // of the week via YY/MM/DD format.
-// By Jun Fu(傅均) @ AidaTech, http://www.aidatech.cn  
+// By Jun Fu(傅均) @ AidaTech, http://me.aidatech.cn
 
 // Original DS3231 Class is by Seeed Technology Inc( http://www.seeedstudio.com ).
 // DateTime Class is a modified version supporting day-of-week.
