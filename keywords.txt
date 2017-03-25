@@ -1,0 +1,9 @@
+DS2403	KEYWORD1
+DateTime	KEYWORD1
+begin	KEYWORD2
+now	KEYWORD2
+adjust	KEYWORD2
+enableChrime	KEYWORD2
+enableInterrupts	KEYWORD2
+disableInterrupts	KEYWORD2
+clearINTStatus	KEYWORD2
